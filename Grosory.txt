@@ -9,4 +9,10 @@ Kurkure
 chocolate 
 sugar
 rice
-
+Perfume
+added in Production branch
+Mouse
+Laptop
+Keyboard
+Router
+Tablet
