@@ -16,3 +16,8 @@ Laptop
 Keyboard
 Router
 Tablet
+
+adaptor
+charger
+pages
+phone
